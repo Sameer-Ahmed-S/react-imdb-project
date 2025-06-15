@@ -126,10 +126,7 @@ This IMDb-style movie discovery platform aims to provide a seamless and engaging
 ## 8. Change Log
 | **Version** | **Date**       | **Changes**                                      |
 |-------------|----------------|--------------------------------------------------|
-| 1.0         | 2023-10-01     | Initial PRD creation                             |
-| 1.1         | 2023-10-15     | Added UI styling details and TMDb API endpoints  |
-| 1.2         | 2023-10-20     | Updated user stories and future enhancements     |
-| 1.3         | 2023-10-25     | Added limitations and references                  |
+| 1.0         | 2025-06-15     | Initial PRD creation                             |
 ## 9. Contact Information
 For any questions or feedback regarding this PRD, please contact:
 **Sameer**
